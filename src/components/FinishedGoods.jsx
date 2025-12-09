@@ -12,6 +12,7 @@ const tabs = [
   "FINISHED GOODS SF2",
   "CORNSTARCH STOCKS",
   "FINISHED GOODS 3M WHS",
+  "KINGSFORTH",
 ];
 
 export default function FinishedGoods() {
